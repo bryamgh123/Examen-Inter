@@ -14,7 +14,7 @@ public class ClaseSuma
 
     public int sumas()
     {
-        return num1 + num1;
+        return num1 + num2;
     }
 
 }
