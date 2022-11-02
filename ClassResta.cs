@@ -12,7 +12,7 @@ public class ClassResta
     public global::System.Int32 Num1 { get => num1; set => num1 = value; }
     public global::System.Int32 Num2 { get => num2; set => num2 = value; }
 
-    public int Rta()
+    public int Resta()
     {
         return num1 - num1;
     }
