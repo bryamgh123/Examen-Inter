@@ -16,7 +16,7 @@ public class Divisio
 
     public int Division()
     {
-        return num1 / num1;
+        return num1 / num2;
     }
 
 }
